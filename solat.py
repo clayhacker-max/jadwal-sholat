@@ -19,8 +19,8 @@ tutup  = "\033[0m"
 def main():
     os.system("reset")
     print "        [ Sholat-gan ]"+kuning+"v0.2"+tutup
-    print tutup+"["+lime+"#"+tutup+"] Coded  : \033[1;96m@rezadkim\033[0m ]"
-    print tutup+"["+lime+"#"+tutup+"] Source : \033[1;92mhttps://github.com/rezadkim\033[0m ]"
+    print tutup+"["+lime+"#"+tutup+"] Coded  : \033[1;96mMr.Gaming\033[0m ]"
+    print tutup+"["+lime+"#"+tutup+"] Source : \033[1;92mhttps://github.com/clayhacker-max\033[0m ]"
     print ""
     cari = raw_input("["+biru+"+"+tutup+"] Kota : "+lime)
     print tutup+"[*] Sabar Coeq ..."

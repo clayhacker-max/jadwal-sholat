@@ -4,7 +4,7 @@
 #module
 import os,sys,time
 import requests,json
-author = "rezadkim"
+author = "Mr.Gaming"
 #Warna
 
 merah  = "\033[1;91m"
